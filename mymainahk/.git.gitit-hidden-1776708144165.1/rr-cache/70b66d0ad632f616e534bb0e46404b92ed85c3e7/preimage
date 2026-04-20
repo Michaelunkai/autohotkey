@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<<
 ﻿#Requires AutoHotkey v2.0
 #SingleInstance Force
 
@@ -2964,7 +2964,6 @@ F9ResetTimer() {
         Run('shutdown.exe /r /f /t 0', , 'Hide')
     }
 }
-||||||| (empty tree)
 =======
 ﻿#Requires AutoHotkey v2.0
 #SingleInstance Force
@@ -5953,4 +5952,4 @@ F9ResetTimer() {
     }
     KeyWait('F9')
 }
->>>>>>> d4ab943 (gitit v23 | 2026-04-20 21:02:18)
+>>>>>>>
